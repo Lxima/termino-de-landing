@@ -1,0 +1,71 @@
+.container{
+    width: 70%;
+    height: 80vh;
+    margin: auto;
+    
+
+}
+
+img{
+ margin-left: 40px;
+ margin-top: 30px;
+}
+
+.cartas{
+    height: 65vh;
+    display: flex;
+    margin: 15% auto;
+    color: #ffffffff;
+    padding:20px;
+    justify-content: center;
+}
+
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    width: 700;
+    margin: 10px 40px;
+}
+
+h1{
+    font-family: 'Big Shoulders Display', cursive;
+    width: 400;
+    margin: 38px 40px;
+}
+.car-1{
+    background-color: hsl(31, 77%, 52%);
+}
+.car-2{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.car-3{
+    background-color: hsl(179, 100%, 13%);
+}
+
+.btn-1{
+    color: hsl(31, 77%, 52%);
+}
+.btn-2{
+    color: hsl(184, 100%, 22%);
+}
+.btn-3{
+    color: hsl(179, 100%, 13%);
+}
+
+.btn{
+    height: 40px;
+    width: 45%;
+    margin: 48px 40px;
+    border-radius: 35px;
+    border: none;
+    font-size: 14px;
+    font-family: 'Lexend Deca', sans-serif;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.btn:hover {
+    background-color: #0f140f; /* Green */
+    color: white;
+}
+
